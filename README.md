@@ -1,39 +1,70 @@
-# MERN
-Full stack project (MERN)
-## Realtime Chat App using NodeJS & Socket.io
- __Real-Time Chat__, is a way of communication and interaction in real-time on the website. This communication is based on text messages.
- 
- ## Requirements
- 
-+ React.js
-+ Node.JS
-+ NPM (Node Package Manager)
-+ Express.JS (Express is a framework of Node.JS )
-+ Mongodb
-+ Nodemon (Optional)
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Install
-+ Node.JS
- ```
- version => (v14.17.6) or any updated version
-```
-+ NPM
-```
-Go Terminal and type => sudo apt-get install npm
-```
-+ Express
-```
-command => npm i express
-```
+## Available Scripts
 
-## Usage
-+ Go to the browser write your local host:
+In the project directory, you can run:
 
-![3](https://user-images.githubusercontent.com/79571914/139799514-c3f60ad1-7ee4-438d-8520-ef67e0bff657.JPG)
-![Capture2](https://user-images.githubusercontent.com/79571914/139799556-7c414966-de05-44f2-a270-d889cd10a6b8.JPG)
-![Capture](https://user-images.githubusercontent.com/79571914/139799588-96569d29-f548-4e71-b330-19f56c80d4b1.JPG)![4](https://user-images.githubusercontent.com/79571914/139799675-2baad168-0a68-4fd7-840c-080002bd8f92.JPG)
-![5](https://user-images.githubusercontent.com/79571914/139799691-998e01c7-f11d-4f3a-8723-dd6e797269d0.JPG)
+### `npm start`
 
-![toast](https://user-images.githubusercontent.com/79571914/139799633-d758cb84-f285-4fb6-adbc-1561898dd9e6.JPG)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
